@@ -1,0 +1,1 @@
+console.log("this is js file no 1")
